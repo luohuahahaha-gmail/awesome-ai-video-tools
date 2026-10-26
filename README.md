@@ -1,4 +1,5 @@
 # awesome-ai-video-tools
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 收录 AI 视频工具列表
 
 
